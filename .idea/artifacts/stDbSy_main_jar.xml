@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stDbSy.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stDbSy_main_jar</output-path>
+    <root id="archive" name="stDbSy.main.jar">
+      <element id="module-output" name="stDbSy.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/20.0.1/69f73c782b3b967003ab3a37e10e85c55a3ec0a/javafx-controls-20.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/20.0.1/5941fc3925cdf622fbae49390dc64aa908cb941c/javafx-graphics-20.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dlsc.formsfx/formsfx-core/11.6.0/dd14a71601781f316a3d5259af549c37b4b3b311/formsfx-core-11.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/20.0.1/5a36f873640e8dbcf48f5efe499aec1ae5c76027/javafx-fxml-20.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/20.0.1/c5d194a1df5644c0bdcfaf91aae4236883859bd9/javafx-base-20.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/20.0.1/1e1f96074223bf73f353aca714306b683db30fd1/javafx-graphics-20.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/20.0.1/b525ac2129edba34421285f5314c1aec41db7c46/javafx-controls-20.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.controlsfx/controlsfx/11.2.1/e0f2568b8ee6e7a1639741f21b0024277ecbb7a7/controlsfx-11.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/20.0.1/e02ab21e05b11faf159d420d71d8ec33bb9eb6bf/javafx-base-20.0.1-win.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: net.synedra:validatorfx:0.5.0" />
+    </root>
+  </artifact>
+</component>
